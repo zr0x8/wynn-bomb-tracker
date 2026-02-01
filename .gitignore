@@ -1,0 +1,24 @@
+# java and ide
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+*.ctxt
+
+# gradle
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+!**/src/client/**/build/
+out/
+bin/
+
+# worker
+node_modules/
+npm-debug.log
+.wrangler/
+dist/
+worker/node_modules/

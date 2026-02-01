@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "com.example.wynnbombtracker.mixin",
+    "refmap": "wynn-bomb-tracker-refmap.json",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "BombModelAccessor",
+        "BombModelMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
