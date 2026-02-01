@@ -21,6 +21,8 @@ npx wrangler login
 npx wrangler deploy
 ```
 
+or manually deploy it [here](https://dash.cloudflare.com)
+
 save the url after u deploy
 
 ### 2. build the Mod
