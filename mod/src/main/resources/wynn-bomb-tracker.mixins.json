@@ -4,7 +4,6 @@
     "refmap": "wynn-bomb-tracker-refmap.json",
     "compatibilityLevel": "JAVA_21",
     "mixins": [
-        "BombModelAccessor",
         "BombModelMixin"
     ],
     "injectors": {
